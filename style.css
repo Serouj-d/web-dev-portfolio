@@ -22,7 +22,8 @@
   align-items: stretch;
   justify-content: center;
   gap: 5rem;
-  height: 100vh;
+  height: auto;
+  padding-bottom:5rem;
 }
 @media (max-width: 1000px) {
   .flex-container {
